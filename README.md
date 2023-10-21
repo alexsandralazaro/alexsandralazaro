@@ -2,8 +2,7 @@ Olá,
 
 Sou Alexsandra, graduada em Sistemas de Informação.
 
-Atualmente desenvolvedora Front-end Júnior:
-Html, CSS, Javascript e SQL
+Analista de Operações Jr | Equals
 
 Email para contato: alexsandralazaro@gmail.com
 
